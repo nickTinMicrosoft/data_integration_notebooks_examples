@@ -1,6 +1,6 @@
-# Python Notebook Examples — Snowflake integration
+# Python Notebook Examples
 
-This repository contains example Python notebooks that demonstrate approaches for reading data from Snowflake and writing it to cloud storage (Azure Storage Account and Microsoft Fabric OneLake). The examples are intended for learning and demonstration only and show common patterns used in data integrations.
+This repository contains example Python notebooks that demonstrate approaches for reading data from outside sources and writing it to cloud storage (Azure Storage Account and Microsoft Fabric OneLake) using Spark Notebooks. The examples are intended for learning and demonstration only and show common patterns used in data integrations.
 
 **ANY CODE PROVIDED IN THIS REPO IS FOR DEMONSTRATION USAGE ONLY.**
 
